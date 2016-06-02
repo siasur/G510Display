@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 
 namespace Siasur.G510Display.Wrapper
 {
-    class LcdConnector
+    public class LcdConnector
     {
         #region Konstanten
 
