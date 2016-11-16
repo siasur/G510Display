@@ -3,6 +3,8 @@ Beschreibung
 --
 G510Display ist ein kleines Projekt, dass aus langeweile heraus entstanden ist. Mit G510Display kann man auf das monochrome Display der Logitech G510 Tastatur schreiben.
 
+Da ich keine Logitech G510 mehr habe, kann ich das Programm nicht mehr debuggen/testen. Dementsprechend kann ich es leider auch nicht mehr weiter entwickeln.
+
 Lizenz
 --
     G510Display - Write on the Display of your Logitech G510 Keyboard
